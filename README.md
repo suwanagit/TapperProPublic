@@ -23,14 +23,3 @@ From now on, open Tapper Pro from **Launchpad** (or the **Applications** folder)
 
 To update to a newer version later, do the same three steps again. Your projects are kept.
 ถ้ามีเวอร์ชันใหม่ ให้ทำ 3 ขั้นตอนนี้อีกครั้ง โปรเจกต์ของคุณจะไม่หาย
-
----
-
-<details><summary>Other way: download the .dmg</summary>
-
-[Apple M1/M2/M3/M4 Macs](https://github.com/suwanagit/TapperProPublic/releases/latest/download/Tapper-Pro-mac-AppleSilicon.dmg) ·
-[Intel Macs](https://github.com/suwanagit/TapperProPublic/releases/latest/download/Tapper-Pro-mac-Intel.dmg)
-
-Open the .dmg, drag Tapper Pro onto Applications, then open it from Applications. The first time, macOS asks
-for permission: System Settings → Privacy & Security → **Open Anyway**.
-</details>
